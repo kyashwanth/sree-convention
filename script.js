@@ -1,4 +1,4 @@
-const WHATSAPP_NUMBER = "91XXXXXXXXXX";
+const WHATSAPP_NUMBER = "917799220148";
 const CONTACT_EMAIL = "info@example.com";
 
 const toggle = document.querySelector(".nav-toggle");
